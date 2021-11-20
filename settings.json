@@ -1,0 +1,14 @@
+{
+    "self_mode": false,
+    "anti_delete": false,
+    "anti_call": true,
+    "autorespon": false,
+    "user_register": true,
+	"prefix": ".",
+	"ownerNumber": "6285761229593",
+	"ownername": "TheLitleBot",
+	"botname":"TheLitleBotz",
+	"thumbnail":"LordUserbot_Thumb.jpg",
+	"fakethumb":"LordUserbot_Thumb.jpg",
+	"url_gif":"https://telegra.ph/file/c864fc477fa22e0d4bfc3.mp4"
+}
